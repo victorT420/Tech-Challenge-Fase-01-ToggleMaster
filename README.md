@@ -29,7 +29,6 @@ A metodologia [12-Factor App](https://12factor.net/) estabelece boas práticas p
 | 11. Logs                      | Parcial: recomenda-se padronização e centralização dos registros.                           |
 | 12. Processos administrativos | Parcial: tarefas de inicialização devem ser separadas da execução normal da API.            |
 
-*Nota: as classificações são preliminares e devem ser confirmadas pela inspeção completa da configuração e por testes de execução.*
 
 ## 4. Melhorias recomendadas
 
